@@ -2,3 +2,6 @@ Tema 1. Git
 Tema 2. SVN
 Tema 3. Mercurial
 Tema 4. Monotone
+
+Temas que se observarán en la materia Sistema
+de control de versiones de la unidad 2
